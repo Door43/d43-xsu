@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsu:home|Door43 (xsu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsu|d43-xsu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsu/archive/master.zip|d43-xsu.zip]]
+
+**Recent Changes**
+{{changes>ns = xsu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsu|Ethnologue data]]
+
